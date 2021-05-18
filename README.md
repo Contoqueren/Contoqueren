@@ -3,8 +3,8 @@
 I'm Jean-Baptiste, former math teacher, looking for an alternative training around Toulouse (Occitanie)
 
 ## About Me
-- French web developer
 - Studied at [O'Clock School](https://oclock.io/)
+- Leader back of ["Où est mon pain"](https://youtu.be/h9D6BdwlaGk?t=2154)
 - Fan of sport, e-sport and speedrun
 - Former Administrator for [Ultime Decathlon 8](https://www.ultimedecathlon.com/championship/season-8)
 - Administrator of [team PB²](https://pbdeuxtv.fr/)
