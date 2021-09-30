@@ -9,6 +9,7 @@ I'm Jean-Baptiste, former math teacher, looking for an alternative training of d
 - [Analysis of Group Stage at EUM 2021 on League of Legends](https://twitter.com/Contoqueren/status/1435594117250174976)
 
 ## About Me
+
 - Studied at [O'Clock School](https://oclock.io/)
 - Leader back of ["Où est mon pain"](https://youtu.be/h9D6BdwlaGk?t=2154)
 - Fan of sport, e-sport and [speedrun](https://www.speedrun.com/user/Contos)
@@ -18,7 +19,7 @@ I'm Jean-Baptiste, former math teacher, looking for an alternative training of d
 ## Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-contoqueren-blue?style=for-the-badge&logo=twitter)][twitter]
-[![Email](https://img.shields.io/badge/Email-j.gimazane-guy@gmail.com?style=for-the-badge&logo=gmail)][email]
+[![Email](https://img.shields.io/badge/Email-j.gimazane-guy@gmail.com-red?style=for-the-badge&logo=gmail)][email]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jean%20Baptiste%20Gimazane%20Guy-blue?style=for-the-badge&logo=linkedin)][linkedin]
 
 
