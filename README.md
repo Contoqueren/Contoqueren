@@ -19,7 +19,7 @@ I'm Jean-Baptiste, former math teacher, looking for an alternative training of d
 ## Connect with me
 
 [![Twitter](https://img.shields.io/badge/Twitter-contoqueren-blue?style=for-the-badge&logo=twitter)][twitter]
-[![Email](https://img.shields.io/badge/Email-j.gimazane-guy@gmail.com-red?style=for-the-badge&logo=gmail)][email]
+[![Email](https://img.shields.io/badge/Email-j.gimazaneguy@gmail.com-red?style=for-the-badge&logo=gmail)][email]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jean%20Baptiste%20Gimazane%20Guy-blue?style=for-the-badge&logo=linkedin)][linkedin]
 
 
