@@ -11,21 +11,14 @@ I'm Jean-Baptiste, former math teacher, looking for an alternative training of d
 ## About Me
 - Studied at [O'Clock School](https://oclock.io/)
 - Leader back of ["Où est mon pain"](https://youtu.be/h9D6BdwlaGk?t=2154)
-- Fan of sport, e-sport and speedrun
+- Fan of sport, e-sport and [speedrun](https://www.speedrun.com/user/Contos)
 - Former Administrator for [Ultime Decathlon 8](https://www.ultimedecathlon.com/championship/season-8)
 - Administrator of [team PB²](https://pbdeuxtv.fr/)
 
-## Tech
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- MySQL
-
 ## Connect with me
 
-[![Twitter](https://img.shields.io/badge/Twitter-contoqueren-red?style=for-the-badge&logo=twitter)][twitter]
-[![Email](https://img.shields.io/badge/Email-j.gimazane-guy@gmail.com-red?style=for-the-badge&logo=gmail)][email]
+[![Twitter](https://img.shields.io/badge/Twitter-contoqueren-blue?style=for-the-badge&logo=twitter)][twitter]
+[![Email](https://img.shields.io/badge/Email-j.gimazane-guy@gmail.com?style=for-the-badge&logo=gmail)][email]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jean%20Baptiste%20Gimazane%20Guy-blue?style=for-the-badge&logo=linkedin)][linkedin]
 
 
