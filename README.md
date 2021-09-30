@@ -2,7 +2,7 @@
 
 I'm Jean-Baptiste, :man_teacher: former math teacher, looking for an alternative training of :bar_chart: data analyst in France
 
-## My different studies (in rench) 
+## My different studies (in french) 
 
 - :desktop_computer: [Statistics of champions at worlds on League of Legends](https://twitter.com/Contoqueren/status/1442817527814496259)
 - :racing_car: [Statistics of Mario Kart All Stars #2](https://twitter.com/Contoqueren/status/1436300358456954883)
