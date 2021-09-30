@@ -10,7 +10,7 @@ I'm Jean-Baptiste, :man_teacher: former math teacher, looking for an alternative
 
 ## About Me
 
-- :school: Studied at [O'Clock School](https://oclock.io/)
+- :school: Studied at [O'Clock School](https://oclock.io/) & [Université Paul Sabatier](https://www.univ-tlse3.fr/)
 - :baguette_bread: Leader back of ["Où est mon pain"](https://youtu.be/h9D6BdwlaGk?t=2154)
 - :running_man: Fan of sport, e-sport and [speedrun](https://www.speedrun.com/user/Contos)
 - :video_game: Former Administrator for [Ultime Decathlon 8](https://www.ultimedecathlon.com/championship/season-8)
