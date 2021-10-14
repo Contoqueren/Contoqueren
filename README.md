@@ -15,7 +15,7 @@ I'm Jean-Baptiste, :man_teacher: former math teacher, looking for an alternative
 - :baguette_bread: Leader back of ["Où est mon pain"](https://youtu.be/h9D6BdwlaGk?t=2154)
 - :running_man: Fan of sport, e-sport and [speedrun](https://www.speedrun.com/user/Contos)
 - :video_game: Former Administrator for [Ultime Decathlon 8](https://www.ultimedecathlon.com/championship/season-8)
-- :joystick: Administrator of [team PB²](https://pbdeuxtv.fr/)
+- :joystick: Administrator of [team PB²](twitch.tv/pb2tv)
 
 ## Connect with me
 
