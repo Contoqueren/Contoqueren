@@ -8,6 +8,8 @@ I'm Jean-Baptiste, :man_teacher: former math teacher, looking for an alternative
 - :desktop_computer: [Statistics of champions at worlds on League of Legends](https://twitter.com/Contoqueren/status/1442817527814496259)
 - :racing_car: [Statistics of Mario Kart All Stars #2](https://twitter.com/Contoqueren/status/1436300358456954883)
 - :desktop_computer: [Analysis of Group Stage at EUM 2021 on League of Legends](https://twitter.com/Contoqueren/status/1435594117250174976)
+- :soccer: [Statistics of the different goals on Euro 2020 competition](https://twitter.com/Contoqueren/status/1414342744907132934)
+- :running: [Analysis of the sports of top 10 countries in Olympic Games](https://twitter.com/Contoqueren/status/1414632963350880260)
 
 ## About Me
 
@@ -25,5 +27,5 @@ I'm Jean-Baptiste, :man_teacher: former math teacher, looking for an alternative
 
 
 [linkedin]: https://www.linkedin.com/in/jean-baptiste-gimazane-guy-354a5a20b/
-[email]: mailto:j.gimazane-guy@gmail.com
+[email]: mailto:j.gimazaneguy@gmail.com
 [twitter]: https://twitter.com/Contoqueren
