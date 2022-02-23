@@ -1,6 +1,6 @@
 # Hey there
 
-I'm Jean-Baptiste, :man_teacher: former math teacher, looking for an alternative training of :bar_chart: data analyst in France
+I'm Jean-Baptiste, :man_teacher: former math teacher, now DevOps Ingeneer for Sopra Steria in France
 
 ## My different studies (in french) 
 
