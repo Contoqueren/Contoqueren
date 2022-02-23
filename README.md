@@ -1,6 +1,6 @@
 # Hey there
 
-I'm Jean-Baptiste, :man_teacher: former math teacher, now DevOps Ingeneer for Sopra Steria in France
+I'm Jean-Baptiste, :man_teacher: former math teacher, now :desktop_computer: DevOps Ingeneer for Sopra Steria in France
 
 ## My different studies (in french) 
 
