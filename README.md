@@ -1,6 +1,6 @@
 # Hey there
 
-I'm Jean-Baptiste, :man_teacher: former math teacher, now :desktop_computer: DevOps Ingeneer for Sopra Steria in France
+I'm Contos, :man_teacher: former math teacher, now :desktop_computer: DevOps Ingeneer for Sopra Steria in France
 
 ## My different studies (in french) 
 
@@ -25,7 +25,5 @@ I'm Jean-Baptiste, :man_teacher: former math teacher, now :desktop_computer: Dev
 [![Email](https://img.shields.io/badge/Email-j.gimazaneguy@gmail.com-red?style=for-the-badge&logo=gmail)][email]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jean%20Baptiste%20Gimazane%20Guy-blue?style=for-the-badge&logo=linkedin)][linkedin]
 
-
-[linkedin]: https://www.linkedin.com/in/jean-baptiste-gimazane-guy-354a5a20b/
-[email]: mailto:j.gimazaneguy@gmail.com
+[email]: mailto:contosflyff@gmail.com
 [twitter]: https://twitter.com/Contoqueren
