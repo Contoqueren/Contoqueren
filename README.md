@@ -1,6 +1,6 @@
 # Hey there
 
-I'm Contos, :man_teacher: former math teacher, now :desktop_computer: DevOps Ingeneer for Sopra Steria in France
+I'm Contos, :man_teacher: math teacher.
 
 ## My different studies (in french) 
 
